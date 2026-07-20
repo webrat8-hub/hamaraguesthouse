@@ -1,0 +1,6 @@
+{
+  "name": "Hamara Guest House",
+  "description": "Premium luxury beachfront villa landing page in Pugung Walur, Krui, West Lampung, designed for ultimate tranquility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
