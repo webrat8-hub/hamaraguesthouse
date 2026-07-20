@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Montserrat", sans-serif;
+  --font-serif: "Lora", serif;
+  --font-display: "Playfair Display", serif;
+  
+  --color-ocean-50: #eef8ff;
+  --color-ocean-100: #d8f0ff;
+  --color-ocean-500: #0077be;
+  --color-ocean-600: #0063a0;
+  --color-ocean-700: #004f82;
+  --color-ocean-800: #003d65;
+  --color-ocean-950: #001a30;
+
+  --color-sand-50: #fafaf5;
+  --color-sand-100: #f5f5dc;
+  --color-sand-200: #eaeab9;
+  --color-sand-900: #42422e;
+
+  --color-gold-50: #fbf9f0;
+  --color-gold-500: #D4AF37;
+  --color-gold-600: #b59228;
+  --color-gold-700: #8c6e1c;
+  
+  --color-champagne: #F1E5AC;
+}
+
+/* Custom smooth transitions and aesthetics */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-serif);
+  color: #1e293b;
+  background-color: var(--color-sand-50);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-sans);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-sand-50);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-ocean-500);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-ocean-600);
+}
