@@ -1,0 +1,4 @@
+/* Hide the decorative Sparkles glyphs that read as generic AI-style decoration. */
+.lucide-sparkles {
+  display: none !important;
+}
