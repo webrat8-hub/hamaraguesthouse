@@ -19,7 +19,7 @@ export const UI_TRANSLATIONS = {
     'hero.badge': 'Escape Tepi Pantai Pribadi Premium di Krui',
     'hero.title.line1': 'Surga yang Tenang dan',
     'hero.title.line2': 'Tak Tertandingi di wilayah krui yang lebih besar',
-    'hero.sub': 'Rasakan pengalaman tinggal di tepi pantai premium di Hamara Guest House—tempat kemewahan berpadu dengan ketenangan mutlak Pantai Benawang. Terletak di cagar alam yang tenang di Pugung Walur.',
+    'hero.sub': 'Rasakan pengalaman tinggal di tepi pantai premium di Hamara Guest House—tempat kemewahan berpadu dengan ketenangan mutlak Pantai Benawang. Terletak di cagar alam yang tenang di Desa Pugung Walur.',
     'hero.cta.check': 'Cek Ketersediaan',
     'hero.cta.wa': 'Booking',
     'hero.feat.access': 'Akses Langsung',
@@ -38,8 +38,8 @@ export const UI_TRANSLATIONS = {
     'about.heading.accent': 'Sanctuary Pribadi Mewah',
     'about.title': 'Hamara Guest House',
     'about.title.italic': 'Saat Kemewahan Tepi Pantai Bertemu Ketenangan',
-    'about.desc.p1': 'Terletak indah di tepi pantai yang tenang di desa Pugung Walur, Hamara Guest House menghadirkan standar arsitektur eksklusif. Direnovasi total secara menyeluruh dan mewah, tidak ada kualitas yang sebanding di seluruh wilayah Pugung Krui.',
-    'about.desc.p2': 'Dari properti pribadi kami, jalur taman yang tertata rapi akan membawa Anda langsung ke pasir keemasan Pantai Benawang yang masih asri. Di sini, para tamu dapat menikmati privasi dan eksklusivitas mutlak—bebas dari turis mainstream, namun berada tepat di pusat pantai selancar ikonik Sumatra Barat.',
+    'about.desc.p1': 'Terletak indah di tepi pantai yang tenang di desa Pugung Walur, Hamara Guest House menghadirkan standar arsitektur eksklusif. Direnovasi total secara menyeluruh dan mewah, dengan sentuhan timeless modern yang memadukan karya kayu custom, detail batu, dan nuansa tropis yang halus.',
+    'about.desc.p2': 'Dari properti pribadi kami, jalur taman yang tertata rapi akan membawa Anda langsung ke pasir keemasan Pantai Benawang yang masih asri. Di sini, para tamu dapat menikmati privasi dan ketenangan yang tak tergantikan, ditambah dengan pengalaman tinggal berdampingan langsung dengan laut.',
     'about.point.location.title': 'Lokasi Elit',
     'about.point.location.desc': 'Terletak dengan tenang di ujung desa Pugung Walur, menawarkan keheningan yang hakiki.',
     'about.point.beach.title': 'Akses Pantai Langsung',
@@ -54,11 +54,11 @@ export const UI_TRANSLATIONS = {
     'story.subtitle': 'Bagaimana Ibu Tia Mewujudkan Sebuah Impian',
     'story.p1': 'Nama saya Ibu Tia, lahir dan dibesarkan di Pringsewu, sebuah kota kecil di Provinsi Lampung.',
     'story.p2': 'Selama 20 tahun terakhir, saya bersama suami dan keluarga sering berlibur ke Pugung Walur (desa kami), hingga akhirnya pada tahun 2022 kami memutuskan untuk pindah dan menetap di sini secara penuh.',
-    'story.p3': 'Sepanjang kehidupan kerja saya menjelajahi Indonesia, dan suami saya yang telah berkeliling Indonesia selama lebih dari 35 tahun untuk mengeksplorasi dan mencari ombak selancar, kami tidak pernah menemukan surga seperti Pugung Walur dengan masyarakatnya yang sangat ramah dan hangat. Kami terpikat oleh keaslian dan kemurahan hati mereka yang membuat kami merasa seperti di rumah sendiri.',
-    'story.p4': 'Kami mendirikan rumah keluarga kami di desa ini (sebuah proyek yang rasanya tidak akan pernah benar-benar selesai) dan memutuskan untuk merenovasi \'Hamara\' agar dapat dinikmati oleh keluarga dan teman-teman. Kami tidak ingin merobohkan warisan berharga di desa ini, karena ayah dari tetangga kami membangun rumah ini pada tahun 1950-an. Kami percaya bahwa menjaga keaslian budaya desa adalah keputusan yang sangat berharga.',
-    'story.p5': 'Maka, kami pun memulai renovasi ini. Tahap demi tahap, kami merenovasi segalanya dengan penuh ketelitian dari awal hingga akhir, mempertahankan setiap keaslian aslinya mulai dari dinding karang hingga seluruh tata letak bangunan.',
+    'story.p3': 'Sepanjang kehidupan kerja saya menjelajahi Indonesia, dan suami saya yang telah berkeliling Indonesia selama lebih dari 35 tahun untuk mengeksplorasi dan mencari ombak selancar, kedua-duanya memiliki ikatan yang mendalam dengan wilayah ini.',
+    'story.p4': 'Kami mendirikan rumah keluarga kami di desa ini (sebuah proyek yang rasanya tidak akan pernah benar-benar selesai) dan memutuskan untuk merenovasi “Hamara” agar dapat dinikmati oleh keluarga dan teman-teman dekat kami.',
+    'story.p5': 'Maka, kami pun memulai renovasi ini. Tahap demi tahap, kami merenovasi segalanya dengan penuh ketelitian dari awal hingga akhir, mempertahankan setiap keaslian aslinya mulai dari dinding karang, kusen kayu, hingga seluruh tata letak rumah.',
     'story.p6': 'Akhirnya, pada akhir tahun 2023, rumah ini selesai direnovasi dan mulai ditempati serta dinikmati oleh teman dan keluarga yang berkunjung ke desa kami.',
-    'story.p7': 'Kemudian pada tahun 2026 (setelah bertahun-tahun mempertimbangkannya), kami memutuskan untuk membagikan impian yang telah kami bangun dan membuka Hamara untuk umum, agar orang lain juga dapat menikmati keindahan istimewa ini.',
+    'story.p7': 'Kemudian pada tahun 2026 (setelah bertahun-tahun mempertimbangkannya), kami memutuskan untuk membagikan impian yang telah kami bangun dan membuka Hamara untuk umum, agar orang lain juga bisa merasakan keindahan istimewa dari tempat ini.',
 
     // Facilities
     'facilities.accent': 'Kemudahan Mewah',
@@ -66,7 +66,7 @@ export const UI_TRANSLATIONS = {
     'facilities.sub': 'Setiap detail dirancang untuk memberikan kenyamanan modern tanpa kompromi saat Anda menikmati keindahan alam mentah Krui.',
     'facilities.banner.tag': 'Fasilitas Spesial Long-Stay',
     'facilities.banner.title': 'Dapur Tradisional \'Anjungan\'',
-    'facilities.banner.desc': 'Berencana tinggal lama atau liburan selancar bersama keluarga? Kami menyediakan fasilitas memasak eksklusif di paviliun tradisional Sumatra \'anjungan\'. Olah ikan segar langsung dari nelayan Krui atau masak hidangan kesukaan Anda ditemani hembusan angin laut.',
+    'facilities.banner.desc': 'Berencana tinggal lama atau liburan selancar bersama keluarga? Kami menyediakan fasilitas memasak eksklusif di paviliun tradisional Sumatra \'anjungan\'. Olah ikan segar dan bahan lokal dengan mudah.',
     'facilities.banner.cta': 'Lihat Diskon Menginap Lama',
 
     // Pricing Calculator
@@ -130,19 +130,19 @@ export const UI_TRANSLATIONS = {
     'policies.sub': 'Berikut adalah rincian informasi penting mengenai proses pemesanan, ketentuan deposit, serta aturan umum selama menginap di Hamara Guest House.',
     'policies.col1.title': 'Prosedur & Kebijakan Villa',
     'policies.step1.title': '1. Hubungi Tia (WhatsApp)',
-    'policies.step1.desc': 'Semua pemesanan dikonfirmasi langsung melalui WhatsApp dengan Tia di nomor 0821-7767-1110. Gunakan estimator harga di atas untuk mengirimkan rincian menginap yang rapi.',
+    'policies.step1.desc': 'Semua pemesanan dikonfirmasi langsung melalui WhatsApp dengan Tia di nomor +62 821-8555-904. Gunakan estimator harga di atas untuk mengirimkan rincian menginap yang rapi dan jelas.',
     'policies.step2.title': '2. Ketentuan DP 50%',
     'policies.step2.desc': 'Deposit sebesar 50% (non-refundable) diperlukan untuk mengunci tanggal pilihan Anda. Pelunasan sisa pembayaran dilakukan paling lambat 2 hari sebelum kedatangan.',
     'policies.step3.title': '3. Waktu Check-In & Check-Out',
     'policies.step3.desc': 'Waktu Check-In mulai pukul 14:00 WIB dan waktu Check-Out maksimal pukul 12:00 WIB. Mohon hubungi kami terlebih dahulu untuk permintaan waktu khusus.',
     'policies.col2.title': 'Eco-Conscious & Filosofi Layanan',
-    'policies.col2.desc1': 'Di Hamara Guest House, kenyamanan Anda adalah prioritas utama kami. Kami menyediakan bantuan staf dedikatif di lokasi untuk memastikan setiap kebutuhan Anda terpenuhi—mulai dari penyediaan kelapa muda segar hingga rekomendasi ombak selancar terbaik hari ini.',
-    'policies.col2.desc2': 'Kami percaya pada kemewahan yang bertanggung jawab. Struktur villa kami menjalani pemeliharaan berkala secara konstan untuk menjaga kualitasnya agar selalu prima bagi para tamu dari dalam maupun luar negeri.',
+    'policies.col2.desc1': 'Di Hamara Guest House, kenyamanan Anda adalah prioritas utama kami. Kami menyediakan bantuan staf dedikatif di lokasi untuk memastikan setiap kebutuhan Anda terpenuhi—mulai dari menyediakan kelapa muda segar hingga rekomendasi laporan ombak harian.',
+    'policies.col2.desc2': 'Kami percaya pada kemewahan yang bertanggung jawab. Struktur villa kami menjalani pemeliharaan berkala secara konstan untuk menjaga kualitasnya agar selalu prima bagi tamu domestik dan internasional.',
     'policies.eco.title': 'Beach Cleaning Initiative',
-    'policies.eco.desc': 'Sebagai komitmen kami untuk menjaga keindahan alam Krui, Hamara menjalankan program "Beach Cleaning Initiative". Kami secara aktif mengelola dan membersihkan sampah pesisir di sekitar desa Pugung Walur untuk memastikan pantai Benawang bebas dari plastik dan nyaman untuk dinikmati seluruh tamu kami.',
+    'policies.eco.desc': 'Sebagai komitmen kami untuk menjaga keindahan alam Krui, Hamara menjalankan program "Beach Cleaning Initiative". Kami secara aktif mengelola dan membersihkan sampah pesisir di sekitar desa Pugung Walur untuk menjaga Benawang Beach tetap bersih dan asri.',
 
     // Footer
-    'footer.desc': 'Hamara Guest House adalah vila pribadi tepi pantai premium di Pugung Walur, Krui, Pesisir Barat, Lampung. Menggabungkan arsitektur modern menawan dengan akses langsung ke keindahan murni Pantai Benawang.',
+    'footer.desc': 'Hamara Guest House adalah vila pribadi tepi pantai premium di Pugung Walur, Krui, Pesisir Barat, Lampung. Menggabungkan arsitektur modern menawan dengan akses langsung ke keindahan pantai Benawang yang masih alami.',
     'footer.nav': 'Navigasi',
     'footer.contact': 'Kontak & Lokasi',
     'footer.loc': 'Desa Pugung Walur, Pesisir Utara, Pesisir Barat, Lampung, Indonesia',
@@ -185,8 +185,8 @@ export const UI_TRANSLATIONS = {
     'about.heading.accent': 'Luxury Private Sanctuary',
     'about.title': 'Hamara Guest House',
     'about.title.italic': 'Where Beachfront Luxury Meets Tranquility',
-    'about.desc.p1': 'Nestled beautifully at the quiet edge of the coastal Pugung Walur village, Hamara Guest House represents an exclusive architectural standard. Beautifully and comprehensively renovated, there is no comparable quality in the entire Pugung Krui region.',
-    'about.desc.p2': 'From the private estate, a manicured garden path delivers you directly to the untouched, pristine sands of Benawang Beach. Here, guests enjoy absolute privacy and exclusivity—free from mainstream tourists, yet ideally positioned in the heart of West Sumatra’s iconic surf coast.',
+    'about.desc.p1': 'Nestled beautifully at the quiet edge of the coastal Pugung Walur village, Hamara Guest House represents an exclusive architectural standard. Beautifully and comprehensively renovated, it blends modern living with tropical simplicity and calm.',
+    'about.desc.p2': 'From the private estate, a manicured garden path delivers you directly to the untouched, pristine sands of Benawang Beach. Here, guests enjoy absolute privacy and exclusivity with direct seaside access.',
     'about.point.location.title': 'Elite Location',
     'about.point.location.desc': 'Sits peacefully at the edge of Pugung Walur village, offering ultimate peace.',
     'about.point.beach.title': 'Direct Beach Access',
@@ -200,20 +200,20 @@ export const UI_TRANSLATIONS = {
     'story.title': 'Hamara Story',
     'story.subtitle': 'How Ibu Tia Created a Dream Beachfront Haven',
     'story.p1': 'My name is Ibu Tia and I was born and raised in Pring Sewu in a small city in Lampung Province.',
-    'story.p2': 'I have come to Pugung Walur ‘the village’ for the last 20 years with my husband and family for vacations and then in 2022 we decided to move here on a full time basis.',
-    'story.p3': 'Travelling myself through Indonesia for my entire working life and my husband travelling throughout the entirety of Indonesia for more than 35 years exploring and discovering waves we never found a paradise like Pugung Walur with such beautiful and welcoming people. We were charmed by their authenticity and generosity and made to feel right at home.',
-    'story.p4': 'We set up our family home in the village (a never to be completed project) and decided to renovate ‘Hamara’ for family and friends to enjoy. We didn’t want to knock down such important heritage within the village as our neighbors father built the house in the 1950’s and we crazily think that keeping the village authentic and cultured is a great idea.',
-    'story.p5': 'So we embarked on the renovation. Step by step we painstakingly renovated everything from start to finish keeping everything original from the coral walls through to the entire floor plan.',
-    'story.p6': 'Finally it was livable by the end of 2023 and friends and family started to stay and enjoy ‘Hamara’ , and the village with us.',
+    'story.p2': 'I have come to Pugung Walur “the village” for the last 20 years with my husband and family for vacations and then in 2022 we decided to move here on a full time basis.',
+    'story.p3': 'Travelling myself through Indonesia for my entire working life and my husband travelling throughout the entirety of Indonesia for more than 35 years exploring and discovering waves has deepened the family connection to this region.',
+    'story.p4': 'We set up our family home in the village (a never to be completed project) and decided to renovate “Hamara” for family and friends to enjoy. We didn’t want to knock down something special and lose the original charm of the building.',
+    'story.p5': 'So we embarked on the renovation. Step by step we painstakingly renovated everything from start to finish keeping everything original from the coral walls through to the entire floor plan and timber details.',
+    'story.p6': 'Finally it was livable by the end of 2023 and friends and family started to stay and enjoy “Hamara”, and the village with us.',
     'story.p7': 'Then in 2026 (after years of deliberation) we decided to share the dream we had created and open Hamara to the public so others can equally enjoy something special.',
 
     // Facilities
     'facilities.accent': 'Luxury Conveniences',
     'facilities.title': 'Exclusive Villa Facilities',
-    'facilities.sub': 'Every detail is designed to offer modern, uncompromising comfort while you savor the raw natural beauty of the krui region.',
+    'facilities.sub': 'Every detail is designed to offer modern, uncompromising comfort while you savor the raw natural beauty of the Krui region.',
     'facilities.banner.tag': 'Special Long-Stay Facility',
     'facilities.banner.title': 'Traditional \'Anjungan\' Pavilion Cooking',
-    'facilities.banner.desc': 'Planning a long stay or surf trip with family? We provide exclusive cooking facilities at our beautifully constructed traditional Sumatra \'anjungan\' pavilion. Prep fresh catches from the local Krui fisherman or cook comfort food under the ocean breeze.',
+    'facilities.banner.desc': 'Planning a long stay or surf trip with family? We provide exclusive cooking facilities at our beautifully constructed traditional Sumatra \'anjungan\' pavilion. Prepare fresh local fish and ingredients with ease.',
     'facilities.banner.cta': 'View Long-Stay Discounts',
 
     // Pricing Calculator
@@ -277,7 +277,7 @@ export const UI_TRANSLATIONS = {
     'policies.sub': 'Here is all the essential information regarding your reservation process, deposit requirements, and general guidelines during your stay.',
     'policies.col1.title': 'Villa Guidelines & Policies',
     'policies.step1.title': '1. Contact Tia (WhatsApp)',
-    'policies.step1.desc': 'All bookings are confirmed directly on WhatsApp with Tia at 0821-7767-1110. Use the pricing estimator above to send neatly structured stay details.',
+    'policies.step1.desc': 'All bookings are confirmed directly on WhatsApp with Tia at +62 821-8555-904. Use the pricing estimator above to send neatly structured stay details.',
     'policies.step2.title': '2. 50% Deposit Requirement',
     'policies.step2.desc': 'A 50% non-refundable deposit is required to lock in your preferred dates. The remaining balance must be paid at least 2 days before arrival.',
     'policies.step3.title': '3. Check-In & Check-Out Times',
@@ -332,8 +332,8 @@ export const UI_TRANSLATIONS = {
     'about.heading.accent': '奢华私人避风港',
     'about.title': 'Hamara 别墅酒店',
     'about.title.italic': '当海滨奢华遇见绝美宁静',
-    'about.desc.p1': 'Hamara Guest House 优雅地坐落于克鲁伊 Pugung Walur 村庄海滨的宁静边缘，代表着极具排他性的高标准建筑艺术。别墅经过全面而精致的奢华翻新，在整个 Pugung Krui 地区堪称无出其右。',
-    'about.desc.p2': '从您的私人庄园出发，一条精心修剪的花园小径将带您直达 Benawang 海滩那未受污染的原始金色沙滩。在这里，宾客可以享受到绝对的隐私与排他性——远离拥挤的游客人潮，同时完美置身于苏门答腊西部标志性冲浪海岸的核心地带。',
+    'about.desc.p1': 'Hamara Guest House 优雅地坐落于克鲁伊 Pugung Walur 村庄海滨的宁静边缘，代表着极具排他性的高标准建筑艺术。别墅经过全面而精致的翻新，融合了现代生活方式与热带舒适感。',
+    'about.desc.p2': '从您的私人庄园出发，一条精心修剪的花园小径将带您直达 Benawang 海滩那未受污染的原始金色沙滩。在这里，宾客可以享受到绝对的隐私与宁静，同时拥有直接走到海边的体验。',
     'about.point.location.title': '绝佳地理位置',
     'about.point.location.desc': '静静坐落于 Pugung Walur 村庄的尽头，为您提供最极致的纯真静谧。',
     'about.point.beach.title': '直接通往海滩',
@@ -347,12 +347,12 @@ export const UI_TRANSLATIONS = {
     'story.title': 'Hamara 品牌故事',
     'story.subtitle': 'Ibu Tia 如何亲手实现海滨度假梦想',
     'story.p1': '我的名字叫 Ibu Tia，在楠榜省（Lampung Province）一个名为 Pring Sewu 的小城市出生并长大。',
-    'story.p2': '在过去的20年里，我和丈夫及家人经常来到 Pugung Walur 这个‘村庄’度假。终于在2022年，我们决定全职搬到这里定居。',
-    'story.p3': '在我整个职业生涯中一直在印尼各地旅行，而我的丈夫在过去的35年多时间里，更是走遍了整个印尼，探索和发现各种海浪。然而，我们从未发现过像 Pugung Walur 这样拥有如此美丽、热情友好的人民的人间天堂。我们被他们的纯朴与慷慨深深吸引，倍感宾至如归。',
-    'story.p4': '我们在村里安了家（这是一个永远都在不断完善的项目），并决定翻新‘Hamara’别墅，让家人和朋友也能尽情享受。我们不想拆毁村里如此重要的历史遗产，因为我们邻居的父亲在1950年代建造了这座房子。我们执着地认为，保持村庄的原汁原味和深厚文化是非常棒的主意。',
-    'story.p5': '于是，我们开启了这场精心雕琢的翻修之旅。一步接一步，我们倾注心血，从头到尾进行翻新，保留了从珊瑚石墙壁到整体房屋布局在内的所有原始风貌。',
-    'story.p6': '终于，到2023年底，别墅达到了完美的居住状态，朋友和家人开始入驻并与我们一同享受‘Hamara’和这个美丽的村庄。',
-    'story.p7': '接着在2026年（经过多年的深思熟虑），我们决定将亲手创造的这个梦想公之于世，将 Hamara 开放给公众，让其他人也能同样享受这一份独特的宁静与美好。',
+    'story.p2': '在过去的20年里，我和丈夫及家人经常来到 Pugung Walur 这个“村庄”度假。终于在2022年，我们决定全职搬到这里定居。',
+    'story.p3': '在我整个职业生涯中一直在印尼各地旅行，而我的丈夫在过去的35年多时间里，更是走遍了整个印尼，探索和发现各种海浪。这种与这片土地的深厚连接，让我们更珍惜这里的自然与人情。',
+    'story.p4': '我们在村里安了家（这是一个永远都在不断完善的项目），并决定翻新“Hamara”别墅，让家人和朋友也能尽情享受。我们不想拆毁村里曾有的建筑特色，反而希望保留原始的魅力。',
+    'story.p5': '于是，我们开启了这场精心雕琢的翻修之旅。一步接一步，我们倾注心血，从头到尾进行翻新，保留了从珊瑚石墙壁到整个房屋结构与木质细节的原始特色。',
+    'story.p6': '终于，到2023年底，别墅达到了完美的居住状态，朋友和家人开始入驻并与我们一同享受“Hamara”和这个美丽的村庄。',
+    'story.p7': '接着在2026年（经过多年的深思熟虑），我们决定将亲手创造的这个梦想公之于世，将 Hamara 开放给公众，让其他人也能同样享受这一份特别的美好。',
 
     // Facilities
     'facilities.accent': '奢华便利',
@@ -360,7 +360,7 @@ export const UI_TRANSLATIONS = {
     'facilities.sub': '在您尽情领略克鲁伊原始自然之美的同时，每一个细节都旨在为您提供绝不妥协的现代奢华舒适体验。',
     'facilities.banner.tag': '特别长期住宿设施',
     'facilities.banner.title': '传统 Sumatra Anjungan 凉亭灶台',
-    'facilities.banner.desc': '规划长期入住或与家人进行冲浪旅行？我们在精美建造的苏门答腊传统 Anjungan 凉亭中提供专属的烹调设施。您可以在此烹制克鲁伊当地渔夫送来的新鲜海获，或在温暖清凉的海风吹拂下烹制美味的家常菜。',
+    'facilities.banner.desc': '规划长期入住或与家人进行冲浪旅行？我们在精美建造的苏门答腊传统 Anjungan 凉亭中提供专属的烹调设施。您可轻松烹制新鲜当地海鲜与食材。',
     'facilities.banner.cta': '查看长期住宿折扣',
 
     // Pricing Calculator
@@ -424,19 +424,19 @@ export const UI_TRANSLATIONS = {
     'policies.sub': '以下是关于您的预订流程、订金要求以及在别墅入住期间需遵守的通用须知和指南。',
     'policies.col1.title': '别墅入住守则与政策',
     'policies.step1.title': '1. 联系客服 Tia (WhatsApp)',
-    'policies.step1.desc': '所有预订均通过 WhatsApp 方式直接与 Tia（电话：0821-7767-1110）进行确认。请使用上方的价格估算工具，将整理好的行程细节发送给我们。',
+    'policies.step1.desc': '所有预订均通过 WhatsApp 方式直接与 Tia（电话：+62 821-8555-904）进行确认。请使用上方的价格估算工具，将整理好的行程细节发送给我们。',
     'policies.step2.title': '2. 50% 订金条款',
     'policies.step2.desc': '需支付 50% 的订金（不可退还）以锁定您心仪的入住日期。余额最晚需在入住前 2 天内付清。',
     'policies.step3.title': '3. 入住与退房时间',
     'policies.step3.desc': '入住时间自 14:00（印尼西部时间）开始，退房截止时间为 12:00（印尼西部时间）。如有特殊时间需求，请提前与我们联系。',
     'policies.col2.title': '生态环保与服务理念',
-    'policies.col2.desc1': '在 Hamara Guest House，您的舒适与度假体验是我们的核心追求。我们在现场提供专属驻店管家服务，悉心满足您的所有需要——无论是为您开剖清凉的新鲜椰子，还是为您提供每日冲浪浪况建议。',
-    'policies.col2.desc2': '我们倡导可持续性的奢华度假模式。我们定期对别墅的各项设施进行维护与品质升级，以确保为国内外尊贵宾客提供始终如一的高端住宿。',
+    'policies.col2.desc1': '在 Hamara Guest House，您的舒适与度假体验是我们的核心追求。我们在现场提供专属驻店管家服务，悉心满足您的所有需要——从新鲜椰子到每日冲浪信息咨询，我们都希望让您安心享受每一刻。',
+    'policies.col2.desc2': '我们倡导可持续性的奢华度假模式。我们定期对别墅的各项设施进行维护与品质升级，以确保为国内外尊贵宾客提供始终如一的舒适体验。',
     'policies.eco.title': '海滩垃圾清洁计划',
-    'policies.eco.desc': '作为守护克鲁伊纯净自然之美的一分子，Hamara 长期开展“海滩垃圾清洁计划”。我们积极组织并参与 Pugung Walur 渔村周边的海滩清理行动，确保 Benawang 沙滩免受塑料污染，为所有来访宾客营造极具自然美感的洁净沙滩。',
+    'policies.eco.desc': '作为守护克鲁伊纯净自然之美的一分子，Hamara 长期开展“海滩垃圾清洁计划”。我们积极组织并参与 Pugung Walur 渔村周边的海滩清理工作，确保 Benawang Beach 保持洁净与原始之美。',
 
     // Footer
-    'footer.desc': 'Hamara Guest House 是一家位于印尼楠榜克鲁伊 Pugung Walur 的私人豪华海滨度假别墅。我们将现代的热带岛屿美学建筑设计与直通原始 Benawang 沙滩的天然优势完美结合。',
+    'footer.desc': 'Hamara Guest House 是一家位于印尼楠榜克鲁伊 Pugung Walur 的私人豪华海滨度假别墅。我们将现代的热带岛屿美学建筑设计与直通原始 Benawang 海滩的便捷通道完美融合。',
     'footer.nav': '网页导航',
     'footer.contact': '联系我们与地址',
     'footer.loc': 'Pugung Walur Village, North Pesisir, West Coast Lampung, Indonesia',
@@ -452,7 +452,7 @@ export const getLocalizedFacilities = (lang: Language) => {
       f3: { title: 'Dapur Lengkap', desc: 'Fasilitas memasak lengkap termasuk kompor gas, peralatan makan premium, dan kulkas dua pintu besar.' },
       f4: { title: 'WiFi StarLink Super Cepat', desc: 'Internet satelit berkecepatan tinggi, ideal untuk pekerja jarak jauh (WFA), nomad digital, atau streaming film.' },
       f5: { title: 'Hiburan Smart TV', desc: 'Smart TV layar lebar yang dilengkapi aplikasi streaming untuk menonton bersama setelah hari panjang berselancar.' },
-      f6: { title: 'Area Taman Eksklusif dengan Pemandangan Laut', desc: 'Kebun dan rumput hijau tropis pribadi yang luas dengan pemandangan laut yang indah, eksklusif hanya untuk kenyamanan tamu villa.' },
+      f6: { title: 'Area Taman Eksklusif dengan Pemandangan Laut', desc: 'Kebun dan rumput hijau tropis pribadi yang luas dengan pemandangan laut yang indah, eksklusif hanya untuk kenyamanan tamu.' },
       f8: { title: 'Tempat Makan Luar Ruangan & Shower', desc: 'Meja makan kayu lapang di dek luar ruangan dan shower bilas segar untuk membersihkan pasir pantai.' },
     },
     en: {
@@ -580,66 +580,66 @@ export const getLocalizedTestimonials = (lang: Language) => {
       t1: {
         name: 'Jack Thomas',
         role: 'Australia',
-        text: 'Sangat luar biasa menginap di Hamara Guesthouse. Staf lokal Indonesia sangat membantu, ramah, dan penuh rasa hormat sepanjang masa menginap saya, membuat pengalaman ini terasa sangat hangat dan tulus.\n\nGuesthouse-nya sendiri dibangun dengan indah, nyaman, dan terletak di lokasi yang menakjubkan dengan pemandangan laut yang luar biasa. Desa lokal di sini sangat ramah dan hutan Sumatra yang menakjubkan berada sangat dekat.'
+        text: 'Sangat luar biasa menginap di Hamara Guesthouse. Staf lokal Indonesia sangat membantu, ramah, dan penuh rasa hormat sepanjang masa menginap saya, membuat pengalaman ini terasa sangat menyenangkan.'
       },
       t2: {
         name: 'Caio Lopez',
         role: 'North Shore Hawaii',
-        text: 'Menginap selama dua minggu dan rasanya ingin tinggal lebih lama! Stafnya luar biasa, sangat tulus peduli, dan membuat saya merasa seperti di rumah sendiri. Rumahnya bersih dan memiliki fasilitas yang lengkap. Saya merasa sangat bersyukur atas masa menginap yang luar biasa ini.'
+        text: 'Menginap selama dua minggu dan rasanya ingin tinggal lebih lama! Stafnya luar biasa, sangat tulus peduli, dan membuat saya merasa seperti di rumah sendiri. Rumahnya bersih dan memikat.'
       },
       t3: {
         name: 'Aram Benjamin',
         role: 'Amerika Serikat',
-        text: 'Saya menghabiskan waktu sebulan di Hamara guesthouse. Ini adalah pengalaman yang sangat menyenangkan. Saya menikmati kopi pagi dan matahari terbenam sambil memandang keindahan laut yang asri. Guesthouse ini terawat dengan baik dan dilengkapi dengan furnitur yang indah. Susu kelapa dingin selalu tersedia untuk saya setiap hari. Benar-benar suguhan istimewa! Saya sangat merekomendasikan vila ini kepada siapa pun yang menginginkan liburan tenang di salah satu daerah terindah di Indonesia.'
+        text: 'Saya menghabiskan waktu sebulan di Hamara guesthouse. Ini adalah pengalaman yang sangat menyenangkan. Saya menikmati kopi pagi dan matahari terbenam sambil memandang keindahan laut.'
       },
       t4: {
         name: 'Willy Andrian',
         role: 'Indonesia',
-        text: 'Villa nya nyaman untuk liburan bersama keluarga\nAda halaman privat untuk kumpul2\nDan dibelakangnya pantai yg keren untuk mandi pagi\n\nBakal balik kesini lagi nanti kalau ke krui'
+        text: 'Villa nya nyaman untuk liburan bersama keluarga. Ada halaman privat untuk kumpul-kumpul dan di belakangnya ada pantai keren untuk mandi pagi. Bakal balik lagi kalau ke Krui.'
       }
     },
     en: {
       t1: {
         name: 'Jack Thomas',
         role: 'Australia',
-        text: 'Had an amazing stay at Hamara Guesthouse. The local Indonesian staff were very helpful, kind, and respectful throughout my whole stay and made the experience feel very welcoming and genuine.\n\nThe guesthouse itself is beautifully built, comfortable, and set in a stunning location with a great view of the ocean. The local village is very friendly and the amazing Sumatran jungle is close by.'
+        text: 'Had an amazing stay at Hamara Guesthouse. The local Indonesian staff were very helpful, kind, and respectful throughout my whole stay and made the experience feel very welcoming and comfortable.'
       },
       t2: {
         name: 'Caio Lopez',
         role: 'North Shore Hawaii',
-        text: 'Stayed for two weeks and wish I could have stayed longer! The staff were amazing, genuinely caring, and made me feel right at home. The house was clean and had great amenities. I feel very grateful for the incredible stay'
+        text: 'Stayed for two weeks and wish I could have stayed longer! The staff were amazing, genuinely caring, and made me feel right at home. The house was clean and had great amenities.'
       },
       t3: {
         name: 'Aram Benjamin',
         role: 'United States of America',
-        text: 'I spent a month in Hamara guesthouse. It was a delightful experience. I’d enjoy morning coffee and sunsets looking out into the beautiful ocean views. The guest house was well maintained and is beautifully furnished. Chilled coconut milk was made available for me every day. Such a treat! I would highly recommend this villa to anyone who is interested in a quiet stay at one of the most beautiful areas of Indonesia.'
+        text: 'I spent a month in Hamara guesthouse. It was a delightful experience. I’d enjoy morning coffee and sunsets looking out into the beautiful ocean views.'
       },
       t4: {
         name: 'Willy Andrian',
         role: 'Indonesia',
-        text: 'The villa is comfortable for a family holiday.\nThere is a private yard for gathering,\nAnd behind it is a cool beach for morning swims.\n\nWill definitely return here next time when visiting Krui.'
+        text: 'The villa is comfortable for a family holiday. There is a private yard for gathering and behind it is a cool beach for morning swims. Will definitely return here next time when in Krui.'
       }
     },
     zh: {
       t1: {
         name: 'Jack Thomas',
         role: '澳大利亚',
-        text: '在 Hamara Guesthouse 度过了令人惊叹的时光。当地的印尼员工在我的整个住宿期间都非常热心、友善且充满敬意，让这次体验感到宾至如归且真诚。\n\n民宿本身建造得很漂亮、舒适，坐拥极佳海景的绝佳位置。当地的村庄非常友好，令人神往的苏门答腊丛林近在咫尺。'
+        text: '在 Hamara Guesthouse 度过了令人惊叹的时光。当地的印尼员工在我的整个住宿期间都非常热心、友善且充满敬意，让这次体验感到宾至如归。'
       },
       t2: {
         name: 'Caio Lopez',
         role: '夏威夷北海岸',
-        text: '在这里住了两周，真希望我能待得更久！员工们太棒了，发自内心地关心我们，让我感觉像在家里一样。房子很干净，设施也很齐全。非常感激能有这样一次难以置信的住宿体验。'
+        text: '在这里住了两周，真希望我能待得更久！员工们太棒了，发自内心地关心我们，让我感觉像在家里一样。房子很干净，设施也很齐全。'
       },
       t3: {
         name: 'Aram Benjamin',
         role: '美国',
-        text: '我在 Hamara guesthouse 度过了一个月。这是一次令人愉快的经历。我每天早上喝着咖啡，傍晚看着日落，尽享美丽的海景。民宿维护得很好，装修也很漂亮。每天都会为我提供冰镇椰奶。真是太贴心了！我强烈推荐这栋别墅给任何想在印尼最美的地区之一享受宁静时光的人。'
+        text: '我在 Hamara guesthouse 度过了一个月。这是一次令人愉快的经历。我每天早上喝着咖啡，傍晚看着日落，尽享美丽的海景。'
       },
       t4: {
         name: 'Willy Andrian',
         role: '印度尼西亚',
-        text: '这栋别墅非常适合家庭度假。\n有一个私人的庭院可以聚会，\n后面就是非常棒的海滩，适合晨游。\n\n以后如果再去克鲁伊，一定会再回到这里。'
+        text: '这栋别墅非常适合家庭度假。有一个私人的庭院可以聚会，后面就是非常棒的海滩，适合晨游。以后如果再去克鲁伊，一定会再回来。'
       }
     }
   };
