@@ -323,7 +323,7 @@ export default function ThingsToDo() {
                       </button>
                     ) : activity.id === 'surfing' ? null : (
                       <a
-                        href={`https://wa.me/6282177671110?text=${encodeURIComponent(
+                        href={`https://wa.me/628218555904?text=${encodeURIComponent(
                           language === 'zh'
                             ? `您好 Tia，我对哈玛拉别墅周边的“${activity.title.zh}”活动很感兴趣。`
                             : language === 'en'
@@ -465,7 +465,7 @@ export default function ThingsToDo() {
             
             <div className="lg:col-span-4 flex lg:justify-end">
               <a
-                href="https://wa.me/6282177671110?text=Halo%20Tia%2C%20saya%20tertarik%20dengan%20aktivitas%20di%20sekitar%20Hamara%20Guest%20House%20Krui."
+                href="https://wa.me/628218555904?text=Halo%20Tia%2C%20saya%20tertarik%20dengan%20aktivitas%20di%20sekitar%20Hamara%20Guest%20House%20Krui."
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center justify-center gap-2.5 px-8 py-4 rounded-full bg-gold-500 hover:bg-gold-600 active:bg-gold-700 text-slate-950 font-sans font-bold text-xs tracking-wider uppercase transition-all duration-300 hover:scale-105 hover:shadow-lg w-full sm:w-auto"
