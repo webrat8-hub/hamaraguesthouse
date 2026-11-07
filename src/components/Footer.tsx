@@ -79,8 +79,8 @@ export default function Footer() {
                   <span className="block text-white font-sans font-semibold mb-0.5">
                     {language === 'zh' ? '专属预订 WhatsApp' : language === 'en' ? 'Reservation WhatsApp' : 'Reservasi WhatsApp'}
                   </span>
-                  <a href="tel:+6282177671110" className="hover:text-champagne transition-colors">
-                    Tia: 0821-7767-1110
+                  <a href="tel:+628218555904" className="hover:text-champagne transition-colors">
+                    Tia: +62 821-8555-904
                   </a>
                 </div>
               </div>
