@@ -92,7 +92,7 @@ export default function Navbar() {
             {/* Call to Action Buttons (Desktop only, hidden on small screens) */}
             <div className="hidden sm:flex items-center">
               <a
-                href="https://wa.me/6282177671110?text=Halo%20Tia%2C%20saya%20tertarik%20untuk%20booking%20Hamara%20Guest%20House%20Krui."
+                href="https://wa.me/628218555904?text=Halo%20Tia%2C%20saya%20tertarik%20untuk%20booking%20Hamara%20Guest%20House%20Krui."
                 target="_blank"
                 rel="noreferrer"
                 className={`flex items-center gap-2 px-4 py-2 rounded-full font-sans font-medium text-xs tracking-wider uppercase transition-all duration-300 shadow-sm ${
@@ -180,7 +180,7 @@ export default function Navbar() {
             ))}
             <div className="pt-4 border-t border-slate-100 px-4">
               <a
-                href="https://wa.me/6282177671110?text=Halo%20Tia%2C%20saya%20tertarik%20untuk%20booking%20Hamara%20Guest%20House%20Krui."
+                href="https://wa.me/628218555904?text=Halo%20Tia%2C%20saya%20tertarik%20untuk%20booking%20Hamara%20Guest%20House%20Krui."
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center justify-center gap-2 w-full px-5 py-3 rounded-full bg-ocean-500 hover:bg-ocean-600 text-white font-sans font-semibold text-xs tracking-widest uppercase transition-all shadow"
