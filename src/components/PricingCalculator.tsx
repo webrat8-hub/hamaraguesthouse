@@ -57,7 +57,7 @@ export default function PricingCalculator() {
   const selectedBase = category === 'international' ? 1350000 : 1200000;
   const formatRate = (rate: number) => `${formatIDR(rate)} / ${isEnglish ? 'night' : isChinese ? '晚' : 'malam'}`;
   const waMessage = `Halo Tia, saya ingin memesan Hamara Guest House.\nNama: ${name}\nKategori: ${category === 'domestic' ? 'Indonesia (WNI)' : 'International (WNA)'}\nCheck-in: ${checkIn}\nCheck-out: ${checkOut}\nDurasi: ${nightCount} malam\nDewasa: ${guests}\nAnak usia ≤6 tahun: ${childrenCount}\nExtra bed dewasa: ${adultExtraBeds}\nTotal estimasi: ${formatIDR(total)}\nDeposit 30%: ${formatIDR(deposit)}\nSisa 70%: ${formatIDR(balance)}`;
-  const waHref = `https://wa.me/6282177671110?text=${encodeURIComponent(waMessage)}`;
+  const waHref = `https://wa.me/628218555904?text=${encodeURIComponent(waMessage)}`;
   const emailHref = `mailto:guesthouse.hamara@gmail.com?subject=${encodeURIComponent('Booking Hamara Guest House')}&body=${encodeURIComponent(waMessage)}`;
 
   const renderRates = (type: GuestType) => {
